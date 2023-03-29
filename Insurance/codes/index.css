@@ -1,0 +1,97 @@
+.navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.navbar li{
+    float: left;
+}
+
+.navbar li a{
+    display: block;
+    color:rgb(0, 0, 0);
+    text-align: center;
+    padding:14px 14px;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+
+.navbar{
+    background-color:slategrey;
+    position: fixed;
+    width: 100%;
+}
+.navbar-brand img{
+    margin: 0%;
+    padding: 1%;
+}
+
+body{
+    margin: 0%;
+    background-image: url(./images/img2.jpg);
+    background-size: cover;
+}
+#logs{
+    background-image: url(./images/img1.jpg);
+    padding: 20%;
+    padding-top: 10%;
+    padding-left: 25%;
+    padding-bottom: 40%;
+    background-size: cover;
+}
+#logs h2{
+    color: white;
+    text-align: center;
+}
+
+.button{
+ padding-left: 38%;
+ 
+}
+.btn{
+    color: antiquewhite;
+    border-color: antiquewhite;
+}
+#About{
+    margin:10%;
+    border-width: 5px;
+    border-style: inset;
+    box-shadow: 5px 5px 5px;
+    padding: 1%;
+    color: whitesmoke;
+    font-weight: bold;
+    
+}
+p{
+    border-width: 5px;
+    border-style: inset;
+    padding: 1%;
+}
+    
+#About h4{
+ text-align: center;
+ text-decoration: underline;
+}
+#cont h4{
+    text-align: center;
+    text-decoration: underline;
+    color: whitesmoke;
+   }
+#cont {
+    margin:10%;
+    border-width: 5px;
+    border-style: inset;
+    padding: 1%;
+    
+    box-shadow: 5px 5px 5px;
+}
+#cont li{
+    list-style: none;
+    text-align: center;
+    font-weight: bolder;
+    color: whitesmoke;
+}
+

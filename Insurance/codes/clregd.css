@@ -1,0 +1,38 @@
+.navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.navbar li{
+    float: right;
+    /* padding-bottom: 4%; */
+    z-index: +30;
+}
+
+.navbar li a{
+    display: block;
+    color:black;
+    text-align: center;
+    padding:14px 14px;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.navbar{
+    background-color: rgb(0, 0, 0,0);
+}
+table{
+    width: 98%;
+    margin: 5% 1%;
+    border:1px solid;
+    border-collapse: collapse;
+}
+td{
+    text-align: center;border:1px solid;
+}
+th{
+    background-color: #009578;border:1px solid;
+    
+}

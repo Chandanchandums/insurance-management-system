@@ -1,0 +1,37 @@
+form{
+    margin: 5% 20% ;
+    border-style: inset;
+    padding: 2%;
+}
+#n,#d,#e,#pa,#p,#ps{
+    margin-bottom: 5%;
+    border-radius: 5px;
+    background-color: whitesmoke;
+    height: 20px;
+    width: 30%;
+}
+label {
+    margin-left: 5%;
+    font-weight: bolder;
+    color: whitesmoke;
+}
+#pa{
+    margin-left: 35%;
+}
+#s{
+    margin-left: 45%;
+    height: 40px;
+    border-radius: 15px;
+    font-weight: bolder;
+}
+#pa{
+    height:200px;
+}
+body{
+    background-image: url('./images/form-background.jpg');
+    background-size:cover;
+    color: white;
+}
+#p,#e{
+    width:20%;
+}

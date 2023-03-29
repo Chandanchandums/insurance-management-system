@@ -1,0 +1,25 @@
+.navbar ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+.navbar li{
+    float: left;
+    /* padding-bottom: 4%; */
+    z-index: +30;
+}
+
+.navbar li a{
+    display: block;
+    color:whitesmoke;
+    text-align: center;
+    padding:14px 14px;
+    text-decoration: none;
+    font-size: 22px;
+}
+
+.navbar{
+    background-color: rgb(0, 0, 0,0);
+}
